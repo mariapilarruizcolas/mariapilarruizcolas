@@ -1,6 +1,6 @@
 Hi! I'm Maria Pilar 👋
 
-I'm in training in the Wild Code School in Paris for become Junior Web Developper.
+I just finished my training course in the Wild Code School in Paris for become Junior Web Developper.
 
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Looking for traineeship for finish my training courses.
