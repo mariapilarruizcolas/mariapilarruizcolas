@@ -1,6 +1,7 @@
 Hi! I'm Maria Pilar 👋
 
-I just graduated after my training at the Wild Code School in Paris for become Junior Web Developper.
+I just graduated after my training at the Wild Code School in Paris for become Junior Web Developper and now I'm looking for a study contract (contrat de professionnalisation) for a training in App developer
+JavaScript React level 6 (bac+3).
 
 
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
